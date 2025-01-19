@@ -1,4 +1,4 @@
-![Design sem nome(2)](https://github.com/user-attachments/assets/e245bd6d-71bb-4cc0-8d4c-1871ca83e8bb)
+![Design sem nome(3)](https://github.com/user-attachments/assets/62c49e58-4341-4b83-9ccf-4b1ffb69f410)
 
 # Campo Minado em Python com Pygame
 
